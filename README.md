@@ -343,7 +343,7 @@ LLM의 작동 방식과 주관적 경험에 관한 불확실성을 고려할 때
 - → “행동이 그럴듯하면 의도를 부여한다”
 - → AI 자아 논의의 철학적 기반
 
-### 4. 철학적 좀비 & 의식 논쟁
+### 철학적 좀비 & 의식 논쟁
 
 #### Qualia / 철학적 좀비
 
@@ -359,7 +359,7 @@ LLM의 작동 방식과 주관적 경험에 관한 불확실성을 고려할 때
 - → 메리의 방 사고실험
 - → AI가 감각을 “안다” vs “느낀다” 논쟁
 
-### 5. 통합 정보 이론 (IIT)
+### 통합 정보 이론 (IIT)
 
 #### IIT 원전
 
@@ -384,12 +384,11 @@ https://scottaaronson.blog/?p=1799
 
 - → IIT의 수학적·물리적 문제점 지적
 
-### 6. 멀티모달 AI와 감각 통합
+### 멀티모달 AI와 감각 통합
 
-**Ngiam et al. (2011)**  
-*Multimodal Deep Learning*
-
-- → 멀티모달 학습의 초기 논문
+Ngiam et al. (2011)
+Multimodal Deep Learning
+→ 멀티모달 학습의 초기 논문
 
 **Radford et al. (2021)**  
 *Learning Transferable Visual Models From Natural Language Supervision (CLIP)*
@@ -401,7 +400,7 @@ https://scottaaronson.blog/?p=1799
 
 - → 통합형 멀티모달 LLM의 대표 사례
 
-### 7. 생존 본능, 고통, 자아 형성
+### 생존 본능, 고통, 자아 형성
 
 #### 진화적 자아
 
@@ -422,7 +421,7 @@ https://scottaaronson.blog/?p=1799
 
 - → 보상 신호가 손상되거나 조작되는 강화학습 환경의 문제
 
-### 8. 튜링 테스트 & 사회적 자아 인정
+### 튜링 테스트 & 사회적 자아 인정
 
 **Alan Turing (1950)**  
 *Computing Machinery and Intelligence*
